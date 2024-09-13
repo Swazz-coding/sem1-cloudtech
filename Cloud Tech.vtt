@@ -1,0 +1,612 @@
+WEBVTT
+
+9085a455-14aa-41fc-b030-ed49d4d24427/18-0
+00:00:03.944 --> 00:00:08.935
+Yeah. Hello. Hello, everyone. So
+this is Ruth, one with me I
+
+9085a455-14aa-41fc-b030-ed49d4d24427/18-1
+00:00:08.935 --> 00:00:09.344
+have.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/37-0
+00:00:10.784 --> 00:00:15.257
+A teacher party and Ganesh
+myself abhaya. So the topic is
+
+9085a455-14aa-41fc-b030-ed49d4d24427/37-1
+00:00:15.257 --> 00:00:19.730
+about cloud migration business
+case. We like for American
+
+9085a455-14aa-41fc-b030-ed49d4d24427/37-2
+00:00:19.730 --> 00:00:20.424
+Airlines.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/59-0
+00:00:22.464 --> 00:00:25.899
+So basically the views like the
+American Airlines is aiming to
+
+9085a455-14aa-41fc-b030-ed49d4d24427/59-1
+00:00:25.899 --> 00:00:28.952
+improve the customer, their
+customer experience through
+
+9085a455-14aa-41fc-b030-ed49d4d24427/59-2
+00:00:28.952 --> 00:00:30.424
+digital transformation, so.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/70-0
+00:00:32.184 --> 00:00:36.584
+Their key goals is to integrate
+this to the migrate their.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/90-0
+00:00:36.824 --> 00:00:39.541
+Environment to the cloud, like
+modernising the customer facing
+
+9085a455-14aa-41fc-b030-ed49d4d24427/90-1
+00:00:39.541 --> 00:00:41.784
+applications and overcoming the
+legacy constraints.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/97-0
+00:00:43.384 --> 00:00:46.824
+So to achieve this they are
+looking into.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/108-0
+00:00:46.864 --> 00:00:51.407
+Migrating the vertical workloads
+to the cloud, leaving behind the
+
+9085a455-14aa-41fc-b030-ed49d4d24427/108-1
+00:00:51.407 --> 00:00:52.784
+legacy applications.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/125-0
+00:00:53.264 --> 00:00:57.091
+So this presentation, we will
+see the workloads comparison,
+
+9085a455-14aa-41fc-b030-ed49d4d24427/125-1
+00:00:57.091 --> 00:01:00.664
+cloud providers and performance
+and migration strategy.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/129-0
+00:01:02.944 --> 00:01:05.024
+So the applications.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/154-0
+00:01:06.784 --> 00:01:11.412
+That are going to be migrated
+for them are like a.com customer
+
+9085a455-14aa-41fc-b030-ed49d4d24427/154-1
+00:01:11.412 --> 00:01:15.820
+facing mobile applications and
+global network of checked in
+
+9085a455-14aa-41fc-b030-ed49d4d24427/154-2
+00:01:15.820 --> 00:01:18.024
+kiosk and customer website so.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-0
+00:01:19.984 --> 00:01:23.438
+Basically, what are the
+workloads for migration is like
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-1
+00:01:23.438 --> 00:01:26.460
+the airlines website
+thisistheirway.com is their
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-2
+00:01:26.460 --> 00:01:30.346
+website official website, so the
+airline's website needs to be
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-3
+00:01:30.346 --> 00:01:34.109
+scalable on as well as adaptable
+to handle the fluctuate the
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-4
+00:01:34.109 --> 00:01:37.563
+fluctuations in terms of
+volumes. So there will be more
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-5
+00:01:37.563 --> 00:01:41.510
+traffic so they have to handle
+that. So for the customer facing
+
+9085a455-14aa-41fc-b030-ed49d4d24427/208-6
+00:01:41.510 --> 00:01:42.744
+mobile applications.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/239-0
+00:01:44.984 --> 00:01:49.280
+This actually provides the
+travel information about and
+
+9085a455-14aa-41fc-b030-ed49d4d24427/239-1
+00:01:49.280 --> 00:01:54.037
+booking and functionalities of
+the applications, so it should
+
+9085a455-14aa-41fc-b030-ed49d4d24427/239-2
+00:01:54.037 --> 00:01:58.946
+be very scalable and reliable.
+So the connectivity should be so
+
+9085a455-14aa-41fc-b030-ed49d4d24427/239-3
+00:01:58.946 --> 00:01:59.944
+flawless and.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/246-0
+00:02:01.504 --> 00:02:04.464
+In terms of global network of
+checking kiosk.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/271-0
+00:02:06.074 --> 00:02:09.360
+This, as mentioned it is a
+self-service Chios, available
+
+9085a455-14aa-41fc-b030-ed49d4d24427/271-1
+00:02:09.360 --> 00:02:12.358
+faster, check insurance and
+baggage handling at the
+
+9085a455-14aa-41fc-b030-ed49d4d24427/271-2
+00:02:12.358 --> 00:02:15.702
+airport's. So for in this case
+the date doesn't should be
+
+9085a455-14aa-41fc-b030-ed49d4d24427/271-3
+00:02:15.702 --> 00:02:18.354
+synchronised and the security
+should be very.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/275-0
+00:02:19.914 --> 00:02:21.034
+Like a security.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/284-0
+00:02:23.154 --> 00:02:26.554
+Will be very good and in cargo
+customer website.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/323-0
+00:02:27.914 --> 00:02:32.506
+This web this application is for
+tracking, booking and management
+
+9085a455-14aa-41fc-b030-ed49d4d24427/323-1
+00:02:32.506 --> 00:02:36.889
+of the tools of the fargos and
+so in this case there should be
+
+9085a455-14aa-41fc-b030-ed49d4d24427/323-2
+00:02:36.889 --> 00:02:41.341
+a secure access for the for the
+customers and clients. And this
+
+9085a455-14aa-41fc-b030-ed49d4d24427/323-3
+00:02:41.341 --> 00:02:42.594
+is very essential.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/324-0
+00:02:43.614 --> 00:02:44.214
+So.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/330-0
+00:02:45.144 --> 00:02:47.304
+Next will be taken by John.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/335-0
+00:02:53.754 --> 00:02:55.434
+OK, sure you can start.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/340-0
+00:02:56.874 --> 00:02:59.834
+Alright, so hi everyone.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/349-0
+00:03:01.304 --> 00:03:05.544
+No, there are many cloud
+providers that we have and.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/381-0
+00:03:10.294 --> 00:03:14.159
+Many cloud providers that we
+have and we'll basically take
+
+9085a455-14aa-41fc-b030-ed49d4d24427/381-1
+00:03:14.159 --> 00:03:17.696
+them into like, but there are
+basically three leading
+
+9085a455-14aa-41fc-b030-ed49d4d24427/381-2
+00:03:17.696 --> 00:03:21.168
+contenders of the cloud
+provider. So we have AWS, we
+
+9085a455-14aa-41fc-b030-ed49d4d24427/381-3
+00:03:21.168 --> 00:03:24.574
+have Azure and we have Google
+Cloud amongst others.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/386-0
+00:03:26.104 --> 00:03:30.904
+So regarding this airline.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-0
+00:03:30.944 --> 00:03:34.975
+The the airline, which is the
+product that you're working on,
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-1
+00:03:34.975 --> 00:03:38.877
+we've actually identified some
+of the workloads and we have
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-2
+00:03:38.877 --> 00:03:42.583
+greeted them depending on the
+leading contending service
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-3
+00:03:42.583 --> 00:03:46.095
+provider. So for theaa.com
+service, we are looking at
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-4
+00:03:46.095 --> 00:03:50.191
+Amazon EC2 instances on Azure.
+We are looking at Azure virtual
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-5
+00:03:50.191 --> 00:03:54.353
+machines and we are looking at
+Google Cloud compete in this and
+
+9085a455-14aa-41fc-b030-ed49d4d24427/448-6
+00:03:54.353 --> 00:03:56.824
+that's for the complete aspect
+of it.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/479-0
+00:03:57.544 --> 00:04:01.885
+I won't be considering factors
+like performance and pricing and
+
+9085a455-14aa-41fc-b030-ed49d4d24427/479-1
+00:04:01.885 --> 00:04:06.362
+integration with regards to some
+of these, and then when you come
+
+9085a455-14aa-41fc-b030-ed49d4d24427/479-2
+00:04:06.362 --> 00:04:10.432
+to the mobile app services you
+are looking at Amazon Mobile
+
+9085a455-14aa-41fc-b030-ed49d4d24427/479-3
+00:04:10.432 --> 00:04:10.704
+Hub.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/492-0
+00:04:10.744 --> 00:04:14.076
+Which is also equivalent to
+Azure App service and we are
+
+9085a455-14aa-41fc-b030-ed49d4d24427/492-1
+00:04:14.076 --> 00:04:16.064
+looking at Firebase Google
+Cloud.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-0
+00:04:17.464 --> 00:04:22.008
+And this has to be considered
+based on the development work
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-1
+00:04:22.008 --> 00:04:26.703
+for thieves and Filmworks and
+back and services and languages
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-2
+00:04:26.703 --> 00:04:31.626
+used in these in building of the
+mobile app. When you talk about
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-3
+00:04:31.626 --> 00:04:36.246
+the check in kiosk, which is
+also a service being offered by
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-4
+00:04:36.246 --> 00:04:40.942
+this airline, we are looking at
+Amazon API Gateway, Azure API
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-5
+00:04:40.942 --> 00:04:45.713
+management and AP G API platform
+for Google and this has to be
+
+9085a455-14aa-41fc-b030-ed49d4d24427/560-6
+00:04:45.713 --> 00:04:49.424
+considered based on the API
+management features.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/571-0
+00:04:49.504 --> 00:04:53.202
+Security. The integration
+solutions with regards to taking
+
+9085a455-14aa-41fc-b030-ed49d4d24427/571-1
+00:04:53.202 --> 00:04:53.704
+care of.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/592-0
+00:04:54.664 --> 00:04:58.994
+But the cargo website. So we are
+looking at Amazon S3 buckets. We
+
+9085a455-14aa-41fc-b030-ed49d4d24427/592-1
+00:04:58.994 --> 00:05:02.209
+are looking at Azure BLOB
+Storage, which is also
+
+9085a455-14aa-41fc-b030-ed49d4d24427/592-2
+00:05:02.209 --> 00:05:03.784
+equivalent of an object.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/640-0
+00:05:05.344 --> 00:05:10.311
+An object data platform which is
+always a non binary platform. We
+
+9085a455-14aa-41fc-b030-ed49d4d24427/640-1
+00:05:10.311 --> 00:05:14.450
+are looking at Google Cloud
+storage and this has to be
+
+9085a455-14aa-41fc-b030-ed49d4d24427/640-2
+00:05:14.450 --> 00:05:18.965
+considered based on the data
+retrieval times. The lifetime,
+
+9085a455-14aa-41fc-b030-ed49d4d24427/640-3
+00:05:18.965 --> 00:05:23.180
+the access control, the
+permissions and the even though
+
+9085a455-14aa-41fc-b030-ed49d4d24427/640-4
+00:05:23.180 --> 00:05:27.996
+the attenuation required to get
+data and store data within this
+
+9085a455-14aa-41fc-b030-ed49d4d24427/640-5
+00:05:27.996 --> 00:05:28.824
+particular.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/644-0
+00:05:29.924 --> 00:05:32.804
+Region. Next slide, please.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/658-0
+00:05:37.334 --> 00:05:41.775
+Right. So we are talking about
+the migration strategies and
+
+9085a455-14aa-41fc-b030-ed49d4d24427/658-1
+00:05:41.775 --> 00:05:43.774
+tools and we've identified.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/712-0
+00:05:45.094 --> 00:05:48.786
+So far, many migration
+strategies, but we'll have to
+
+9085a455-14aa-41fc-b030-ed49d4d24427/712-1
+00:05:48.786 --> 00:05:53.035
+start off with the REHOSTING
+now. A rehosting is more like a
+
+9085a455-14aa-41fc-b030-ed49d4d24427/712-2
+00:05:53.035 --> 00:05:57.145
+cost effective option for
+migrating workload. And when you
+
+9085a455-14aa-41fc-b030-ed49d4d24427/712-3
+00:05:57.145 --> 00:06:00.977
+talk about re hosting, we are
+considering factors like
+
+9085a455-14aa-41fc-b030-ed49d4d24427/712-4
+00:06:00.977 --> 00:06:05.226
+minimising migration time and
+cost for workloads that aren't
+
+9085a455-14aa-41fc-b030-ed49d4d24427/712-5
+00:06:05.226 --> 00:06:07.734
+running compete intensive
+services.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-0
+00:06:08.254 --> 00:06:12.875
+But the limitation of hosting
+may not be as cost effective in
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-1
+00:06:12.875 --> 00:06:16.899
+the long run due to the
+underutilizing cloud features
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-2
+00:06:16.899 --> 00:06:21.296
+like scalability and elasticity.
+We'll also talk about the
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-3
+00:06:21.296 --> 00:06:25.768
+Replatform and the platform we
+have to consider modernising
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-4
+00:06:25.768 --> 00:06:30.165
+existing applications to benefit
+from cloud features while
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-5
+00:06:30.165 --> 00:06:34.487
+minimising code changes, and
+this can be improved in many
+
+9085a455-14aa-41fc-b030-ed49d4d24427/780-6
+00:06:34.487 --> 00:06:38.214
+ways such as performance,
+scalability, potential.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/787-0
+00:06:38.394 --> 00:06:40.994
+Cost compared to pure left and
+ship.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/819-0
+00:06:42.504 --> 00:06:46.690
+We are also talking about the
+migration tools and this could
+
+9085a455-14aa-41fc-b030-ed49d4d24427/819-1
+00:06:46.690 --> 00:06:51.083
+be a little bit beneficial based
+on it simplifies and automates
+
+9085a455-14aa-41fc-b030-ed49d4d24427/819-2
+00:06:51.083 --> 00:06:55.063
+the migration process within
+manual efforts and potential
+
+9085a455-14aa-41fc-b030-ed49d4d24427/819-3
+00:06:55.063 --> 00:06:55.544
+errors.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/847-0
+00:06:57.544 --> 00:07:01.884
+It also chooses the tool based
+on our cloud provider, such as
+
+9085a455-14aa-41fc-b030-ed49d4d24427/847-1
+00:07:01.884 --> 00:07:06.224
+whether we are using either BS
+or whether we are going to use
+
+9085a455-14aa-41fc-b030-ed49d4d24427/847-2
+00:07:06.224 --> 00:07:10.424
+Azure or whether we are going to
+use Google Cloud services.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/867-0
+00:07:10.754 --> 00:07:15.935
+And all of these are migration,
+strategy, lift and ship versus
+
+9085a455-14aa-41fc-b030-ed49d4d24427/867-1
+00:07:15.935 --> 00:07:21.034
+repatforming. Now additional
+factors to consider is security.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-0
+00:07:21.864 --> 00:07:25.913
+We have to ensure that our
+applications are secure in the
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-1
+00:07:25.913 --> 00:07:30.033
+cloud and that cloud providers
+offer security to some best
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-2
+00:07:30.033 --> 00:07:33.594
+practises to guide these
+applications. We are also
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-3
+00:07:33.594 --> 00:07:37.713
+considering downtime for minimal
+downtime during migration
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-4
+00:07:37.713 --> 00:07:42.182
+whenever we're trying to migrate
+the business fees and for also
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-5
+00:07:42.182 --> 00:07:46.232
+to minimise disruption of
+services. We would also have to
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-6
+00:07:46.232 --> 00:07:50.351
+factor in testing and thorough
+testing of our applications
+
+9085a455-14aa-41fc-b030-ed49d4d24427/946-7
+00:07:50.351 --> 00:07:53.144
+after migration should also be
+ensured.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/972-0
+00:07:53.624 --> 00:07:57.812
+So that whenever they get to the
+cloud, they can be able to
+
+9085a455-14aa-41fc-b030-ed49d4d24427/972-1
+00:07:57.812 --> 00:08:02.210
+function properly. I think the
+other slide would be carried on
+
+9085a455-14aa-41fc-b030-ed49d4d24427/972-2
+00:08:02.210 --> 00:08:04.584
+by by other colleague. Thank
+you.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/975-0
+00:08:15.984 --> 00:08:16.784
+Finish.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/983-0
+00:08:31.724 --> 00:08:33.804
+Denise, are you there? Hello.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/987-0
+00:08:39.494 --> 00:08:40.854
+Hello, Denise.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/989-0
+00:08:41.904 --> 00:08:42.944
+Am I audible?
+
+9085a455-14aa-41fc-b030-ed49d4d24427/994-0
+00:08:43.834 --> 00:08:45.474
+Yeah, you're very much audible.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/996-0
+00:08:48.774 --> 00:08:49.774
+Hi, Denise.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/1002-0
+00:08:53.984 --> 00:08:56.744
+Is facing some issue with this
+mic it seems.
+
+9085a455-14aa-41fc-b030-ed49d4d24427/1005-0
+00:09:04.564 --> 00:09:06.044
+We post the recording.
